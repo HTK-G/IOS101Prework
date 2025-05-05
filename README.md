@@ -4,7 +4,7 @@ Submitted by: Haoran (Harrison) Gao
 
 BackGroundChanger is an app that dedicate in generating different background colors on a user interface.
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
