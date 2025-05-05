@@ -25,6 +25,16 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+1. FaceTime: this app allows user to remotely control another iphone even across the world.
+
+2. 3D Scan: this app utilized the iphone faceID scanner as depth detecting device to scan objects.
+
+3. Microsoft Todo: this app has great UI/UX design and click reponse.
+
+4. Duolingo: the interface and gamify design attracts user attention.
+
+5. Robinhood: the faceID unlock works great to enhance security.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
